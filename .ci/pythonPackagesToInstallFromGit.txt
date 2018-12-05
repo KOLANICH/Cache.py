@@ -1,0 +1,3 @@
+https://github.com/KOLANICH/transformerz.py.git
+https://github.com/indygreg/python-zstandard.git
+https://github.com/jnwatson/py-lmdb.git

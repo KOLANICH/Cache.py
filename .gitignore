@@ -1,0 +1,12 @@
+__pycache__
+*.pyc
+*.pyo
+*.egg-info
+build
+dist
+.eggs
+monkeytype.sqlite3
+/tests/**.sqlite
+/tests/databasesFiles
+/tests/**.mdb
+/tests/**.mdb-lock
